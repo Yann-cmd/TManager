@@ -4,11 +4,16 @@
 Ce projet a été développé en Angular pour la partie FRONT et utilise json-server pour stocker les données en locale. Ces données sont stockées dans le fichier __data.jon__ situé à la racine du projet.
 
 # 2. Lancement
-Pour lancer le projet et accèder au site, voici les étapes à suivre : 
+Pour lancer le projet et accèder au site, voici les étapes à suivre :
+
 -> Télécharger le zip du projet _TManager.zip_
+
 -> Extraire les données et ouvrir le projet dans un IDE (VSCode)
+
 -> Se placer à la racine du projet et télécharger les dépendances avec _npm install_
+
 -> Lancer le server json avec _json-server --watch data.json_
+
 -> Lancer le front avec _ng serve_ 
 
 # 3. Get started
