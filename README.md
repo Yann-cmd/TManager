@@ -10,11 +10,11 @@ Pour lancer le projet et accèder au site, voici les étapes à suivre :
 
 -> Extraire les données et ouvrir le projet dans un IDE (VSCode)
 
--> Se placer à la racine du projet et télécharger les dépendances avec _npm install_
+-> Se placer à la racine du projet et télécharger les dépendances avec ```npm install```
 
--> Lancer le server json avec _json-server --watch data.json_
+-> Lancer le server json avec ```json-server --watch data.json```
 
--> Lancer le front avec _ng serve_ 
+-> Lancer le front avec ```ng serve```
 
 # 3. Get started
 Lorsque le projet se lance, le site sera accèssible sur votre poste local. En vous rendant sur l'URL correspondante, vous pourrez vous rendre sur le site. Quelques données ont été insérées par défaut en base. Vous aurez donc accès à un compte utilisateur __ADMIN__ vous permettant d'avoir accès à __l'ensemble__ des actions possibles après s'être connécté. Un utilisateur classique a aussi été ajouté et un ticket est par défaut présent également.
